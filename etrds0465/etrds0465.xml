@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE WileyML40 [<!ENTITY % wileyml40.ent SYSTEM "http://vendors.wiley.com/schemas/wileyml40/wiley.ent">%wileyml40.ent; ]>
+<component xmlns="http://www.wiley.com/namespaces/wiley" version="2.0" type="mrwArticle"
+           xml:lang="en"
+           xml:id="etrds0465">
+   <header>
+      <publicationMeta level="product">
+         <publisherInfo>
+            <publisherName>John Wiley &amp; Sons, Inc.</publisherName>
+            <publisherLoc>Hoboken, NJ, USA</publisherLoc>
+         </publisherInfo>
+         <doi>10.1002/9781118900772</doi>
+         <isbn type="online-13">9781118900772</isbn>
+         <titleGroup>
+            <title sort="EMERGING TRENDS IN THE SOCIAL AND BEHAVIORAL SCIENCES: AN INTERDISCIPLINARY, SEARCHABLE, AND LINKABLE RESOURCE"
+                   type="main">Emerging Trends in the Social and Behavioral Sciences</title>
+            <title type="tocForm">Emerging Trends in the Social and Behavioral Sciences : An Interdisciplinary, Searchable, and Linkable Resource</title>
+            <title type="subtitle">An Interdisciplinary, Searchable, and Linkable Resource</title>
+         </titleGroup>
+         <copyright ownership="publisher">Copyright &copy; 2015 John Wiley &amp; Sons, Inc. All rights reserved.</copyright>
+         <eventGroup>
+            <event date="2015-05-15" type="publishedOnlineProduct"/>
+         </eventGroup>
+         <numberingGroup>
+            <numbering number="1" type="edition"/>
+         </numberingGroup>
+         <creators>
+            <creator creatorRole="editor" xml:id="cr-0001">
+               <personName>
+                  <givenNames>Robert A</givenNames>
+                  <familyName>Scott</familyName>
+               </personName>
+            </creator>
+            <creator creatorRole="editor" xml:id="cr-0002">
+               <personName>
+                  <givenNames>Stephan M</givenNames>
+                  <familyName>Kosslyn</familyName>
+               </personName>
+            </creator>
+            <creator creatorRole="author" xml:id="cr-0003">
+               <personName>
+                  <givenNames>Marlis</givenNames>
+                  <familyName>Buchmann</familyName>
+               </personName>
+            </creator>
+         </creators>
+         <subjectInfo>
+            <subject href="http://psi.wiley.com/subject/EC40">International Economics &amp; Trade</subject>
+            <subject href="http://psi.wiley.com/subject/PS40">Social Psychology</subject>
+            <subject href="http://psi.wiley.com/subject/SO20">Political Sociology</subject>
+         </subjectInfo>
+      </publicationMeta>
+      <publicationMeta level="part">
+         <titleGroup>
+            <title type="main" sort="SOCIAL PROCESSES">Social Processes</title>
+         </titleGroup>
+      </publicationMeta>
+      <publicationMeta level="subpart">
+         <titleGroup>
+            <title type="main" sort="SOCIAL CHANGE">Social Change</title>
+         </titleGroup>
+      </publicationMeta>
+      <publicationMeta level="unit" xml:lang="en" type="article" position="809060">
+         <doi>10.1002/9781118900772.etrds0465</doi>
+         <idGroup>
+            <id type="unit" value="etrds0465"/>
+            <id type="file" value="etrds0465"/>
+            <id type="version" value="1"/>
+         </idGroup>
+         <countGroup>
+            <count type="pageTotal" number="14"/>
+         </countGroup>
+         <copyright ownership="publisher">Copyright &copy; 2018 John Wiley &amp; Sons, Inc. All rights reserved.</copyright>
+         <eventGroup>
+            <event type="xmlCreated" agent="SPi Global" date="2018-10-30"/>
+            <event type="firstOnline" date="2018-12-12"/>
+            <event type="publishedOnlineFinalForm" date="2018-12-12"/>
+         </eventGroup>
+         <numberingGroup>
+            <numbering type="pageFirst">1</numbering>
+            <numbering type="pageLast">14</numbering>
+         </numberingGroup>
+         <subjectInfo>
+            <subject href="http://psi.wiley.com/subject/9781118900772/8.03">Social Change</subject>
+            <subject href="http://psi.wiley.com/subject/9781118900772/6.04">Race and Ethnicity</subject>
+            <subject href="http://psi.wiley.com/subject/9781118900772/8.05">Immigration</subject>
+         </subjectInfo>
+         <linkGroup>
+            <link type="toTypesetVersion" href="file:etrds0465.pdf"/>
+         </linkGroup>
+      </publicationMeta>
+      <contentMeta>
+         <titleGroup>
+            <title type="main"
+                   sort="THE GOOD, THE BAD, AND THE LONG-TERM IMPLICATIONS OF SOCIAL DIVERSITY">The Good, the Bad, and the Long&hyphen;Term Implications of Social Diversity</title>
+         </titleGroup>
+         <creators>
+            <creator creatorRole="author" xml:id="etrds0465-cr-0001"
+                     affiliationRef="#etrds0465-aff-0001">
+               <personName>
+                  <givenNames>Miguel R.</givenNames>
+                  <familyName>Ramos</familyName>
+               </personName>
+               <biographyInfo xml:id="etrds0465-biog-0001">
+                  <p xml:id="etrds0465-para-0001">
+                     <b>Miguel R</b>. <b>Ramos</b> is a postdoctoral research associate at the Department of Experimental Psychology, University of Oxford, UK. He received his PhD from the University of St. Andrews, UK. His research investigates the impact of stereotyping and discrimination on disadvantaged groups.</p>
+               </biographyInfo>
+            </creator>
+            <creator creatorRole="author" xml:id="etrds0465-cr-0002"
+                     affiliationRef="#etrds0465-aff-0001">
+               <personName>
+                  <givenNames>Miles</givenNames>
+                  <familyName>Hewstone</familyName>
+               </personName>
+               <biographyInfo xml:id="etrds0465-biog-0002">
+                  <p xml:id="etrds0465-para-0002">
+                     <b>Miles Hewstone</b> is professor of Social Psychology and Public Policy, and fellow of New College, University of Oxford, UK. He has published extensively on a wide range of topics in social psychology, focusing recently on prejudice and stereotyping, intergroup contact, and the reduction of intergroup conflict. He is a fellow of the British Academy.</p>
+               </biographyInfo>
+            </creator>
+         </creators>
+         <affiliationGroup>
+            <affiliation type="organization" xml:id="etrds0465-aff-0001" countryCode="GB">
+               <orgName>University of Oxford</orgName>
+            </affiliation>
+         </affiliationGroup>
+         <keywordGroup type="author">
+            <keyword xml:id="etrds0465-kwd-0001">ethnic composition</keyword>
+            <keyword xml:id="etrds0465-kwd-0002">social diversity</keyword>
+            <keyword xml:id="etrds0465-kwd-0003">diversity politics</keyword>
+            <keyword xml:id="etrds0465-kwd-0004">demographic changes</keyword>
+         </keywordGroup>
+         <abstractGroup>
+            <abstract type="main" xml:id="etrds0465-abs-0001">
+               <title type="main">Abstract</title>
+               <p xml:id="etrds0465-para-0003">Demographic trends reveal that modern societies have become more heterogeneous in terms of their ethnic composition. Concerns about social diversity and its implications have received critical scholarly attention, and it has become a prominent topic in several social sciences. The recent but already impressive amount of published research has examined the impact of social diversity (e.g., ethnic, religious diversity) on societal variables such as economic performance and neighborhood trust. However, results from this body of work have been contradictory and a lack of consensus in diversity research has undermined the impact of science on policy. To address this concern, we propose a time&hyphen;focused perspective in which seemingly contradictory theoretical perspectives can be integrated to provide a coherent account as to why social diversity can potentially yield both negative and positive outcomes. This perspective is discussed in light of its implications for diversity politics. A successful management and planning of these unprecedented demographic changes will dictate the quality of people's lives.</p>
+            </abstract>
+         </abstractGroup>
+      </contentMeta>
+   </header>
+   <body sectionsNumbered="no" xml:id="etrds0465-body-0001">
+      <section type="opening" xml:id="etrds0465-sec-0001">
+         <p xml:id="etrds0465-para-0004">There is a long history of migration around the world, but with changes in the global economy and increased availability of communication and transportation networks, the number of migrants has dramatically increased over the last decades. Modern societies are now in constant flux and have become more diverse than ever before. In 2000, the United Nations estimated that a total of almost 173 million people were living outside their country of birth, whilst in 2017 this figure increased by 67% reaching a total of 258 million individuals (United Nations, <link href="#etrds0465-bib-0046"/>). Europe hosted the largest share of these immigrants (a total of 78 million), a figure that accounted for 30% of the world's immigrants in 2017. Outside of Europe, the United States and Canada hosted 50 M and 8 M immigrants, respectively, with foreign&hyphen;born residents being vital for these societies as they compose 15% of the total population in the United States and 22% in Canada (United Nations, <link href="#etrds0465-bib-0046"/>). Moreover, the United States Census Bureau anticipates that in the next 40 years, the size of the White population will increase by only 7.4%, whilst the Black population will grow 70%, and that of Asians and Hispanics by more than 250%&mdash;so&hyphen;called (ethnic) &ldquo;minorities&rdquor; will become &ldquo;the majority.&rdquor; It is undeniable that our societies are changing&mdash;these demographic shifts are having a major impact across all spheres of life, including the workplace, neighborhood environments, schools, and nations.</p>
+         <p xml:id="etrds0465-para-0006">Not surprisingly, multiple social sciences have been concerned about the impact of diversity on societies, the consequences of multiculturalism, and the adaptation of immigrant populations. And indeed, it is critical to use the knowledge generated by the social sciences to develop analyses that will be of practical benefit to leaders and policy makers responsible for managing both the opportunities and the challenges of diversity. However, the transfer of scientific knowledge into society has faced its own winding path. Despite the increasing effort of social scientists to contribute to issues of public policy, the lack of consensus in diversity research has undermined the impact of science on policy (Eagly, <link href="#etrds0465-bib-0010"/>). To address this issue, we propose a novel perspective in which seemingly contradictory theoretical perspectives can be integrated to provide a coherent account as to why social diversity provides a context promoting, potentially, both negative and positive outcomes. We will do so by presenting a time&hyphen;focused perspective, where fragmented (and often contradictory) pieces of extant scholarship are not theorized as opposing ideas, but instead, as different time points of an evolving temporal continuum of intergroup relations. In the following sections we consider, first, the negative, and then the positive reactions to social diversity. We then outline a time&hyphen;focused perspective on the effects of social diversity and, finally, consider the implications of our approach for diversity politics.</p>
+      </section>
+      <section xml:id="etrds0465-sec-0002">
+         <title type="main">The Negative Reactions to Social Diversity</title>
+         <p xml:id="etrds0465-para-0007">Scholars across the social sciences have highlighted the fact that changes in social diversity are not always well received by societies and individuals. Some argue that diversity is likely to result in ethnic competition (Scheepers, Gijsberts, &amp; Coenders, <link href="#etrds0465-bib-0035"/>) and perceived threat (Stephan &amp; Stephan, <link href="#etrds0465-bib-0042"/>). These negative outcomes are thought to emerge because societies are seen as having limited resources. Thus, increasing heterogeneity (e.g., through ethnic or religious diversity) should lead to group competition over power, housing, and jobs, which, in turn, worsens overall intergroup relations. Other researchers contend that diversity leads to fragmented social norms, which generate communication difficulties, often resulting in exclusion and anomie (Seeman, <link href="#etrds0465-bib-0038"/>), or, even without animosity, people simply display homophily, preferring those who are similar to themselves (McPherson, Smith&hyphen;Lovin, &amp; Cook, <link href="#etrds0465-bib-0022"/>).</p>
+         <p xml:id="etrds0465-para-0008">These factors can perhaps explain why some research has found that social capital (i.e., aspects of social networks such as social norms, trust, and collaboration) is lower in communities with high ethnic diversity (Putnam, <link href="#etrds0465-bib-0030"/>). This could also be the reason why ethnic diversity has been associated with intergroup conflict (Esteban, Mayoral, &amp; Ray, <link href="#etrds0465-bib-0012"/>) and with lower economic performance (Alesina &amp; La Ferrara, <link href="#etrds0465-bib-0001"/>), social trust, civic engagement, and political participation (Kesler &amp; Bloemraad, <link href="#etrds0465-bib-0019"/>). However, a careful meta&hyphen;analysis of relevant research has shown that the putative effect whereby diversity drives down trust is much more limited than Putnam argued, being more typical of the United States than of Europe, and more likely to be found on measures of trust in neighbours than other measures of trust (ingroup members, outgroup members, or trust in general; see van der Meer &amp; Tolsma, <link href="#etrds0465-bib-0047"/>).</p>
+         <p xml:id="etrds0465-para-0009">At the individual level, these negative findings have been substantiated by empirical work studying interactions in the lab between people of different racial or ethnic backgrounds. Results from this research have shown that intergroup (compared with within&hyphen;group) interactions can lead to a threatened social identity (Shelton, Richeson, &amp; Vorauer, <link href="#etrds0465-bib-0040"/>) and heightened anxiety (Stephan &amp; Stephan, <link href="#etrds0465-bib-0041"/>). Just anticipating such interactions can induce concerns about being negatively viewed by an interaction partner (Vorauer, Hunter, Main, &amp; Roy, <link href="#etrds0465-bib-0051"/>). During intergroup interactions, individuals have reported wishing to avoid those who are different, which is detrimental for them and society at large (Plant &amp; Devine, <link href="#etrds0465-bib-0029"/>). There is now a compelling body of work demonstrating that, at least initially (we return to this point, below), intergroup interactions can exacerbate intergroup bias, producing heightened stress and anxiety, less positive emotions, and outgroup avoidance (for a meta&hyphen;analysis, see Toosi, Babbitt, Ambady, &amp; Sommers, <link href="#etrds0465-bib-0044"/>). These effects have been demonstrated with behavioral, self&hyphen;report, and physiological measures (Blascovich, Mendes, Hunter, Lickel, &amp; Kowai&hyphen;Bell, <link href="#etrds0465-bib-0006"/>; Richeson &amp; Shelton, <link href="#etrds0465-bib-0033"/>).</p>
+      </section>
+      <section xml:id="etrds0465-sec-0003">
+         <title type="main">The Positive Consequences of Social Diversity</title>
+         <p xml:id="etrds0465-para-0010">Socially diverse contexts offer opportunities that have been associated with positive intergroup relations. One of these is the greater opportunity for intergroup contact, which has long been argued to improve intergroup attitudes (Allport, <link href="#etrds0465-bib-0002"/>). Work over more than 60 years has demonstrated that positive intergroup contact reliably reduces prejudice (Brown &amp; Hewstone, <link href="#etrds0465-bib-0007"/>; Hewstone &amp; Swart, <link href="#etrds0465-bib-0016"/>), intergroup anxiety, and perceived threat (Islam &amp; Hewstone, <link href="#etrds0465-bib-0017"/>; Paolini, Hewstone, Cairns, &amp; Voci, <link href="#etrds0465-bib-0025"/>; Savelkoul, Gesthuizen, &amp; Scheepers, <link href="#etrds0465-bib-0034"/>; Voci &amp; Hewstone, <link href="#etrds0465-bib-0050"/>). These findings have been validated by multiple studies and meta&hyphen;analyses (Lemmer &amp; Wagner, <link href="#etrds0465-bib-0020"/>; Pettigrew &amp; Tropp, <link href="#etrds0465-bib-0027"/>, <link href="#etrds0465-bib-0028"/>) and together constitute one of social psychology's most important and well&hyphen;established contributions to improving intergroup relations. Intergroup contact is effective in improving intergroup attitudes because it equips people with the social skills and resources to appraise interactions as non&hyphen;stressful (Mendes, Blascovich, Hunter, Lickel, &amp; Jost, <link href="#etrds0465-bib-0023"/>), and reduces anxiety while increasing perspective taking, trust, and empathy with outgroup members (Pettigrew &amp; Tropp, <link href="#etrds0465-bib-0028"/>). Another beneficial effect derives from the fact that positive experiences of intergroup contact promote, in turn, more intergroup contact contributing to more positive intergroup relations (Trawalter, Richeson, &amp; Shelton, <link href="#etrds0465-bib-0045"/>).</p>
+         <p xml:id="etrds0465-para-0011">Research conducted at the Oxford Centre for the Study of Intergroup Conflict has been exploring the role of intergroup contact as a function of variation in ethnic diversity. Part of this work has examined intergroup contact and social integration in state schools in Oldham, Greater Manchester (UK). Using longitudinal surveys, social network analysis, and observational methods, relations between 11&ndash;18&hyphen;year&hyphen;old White&hyphen;British and Asian&hyphen;British (primarily Muslim) students in mixed, segregated, and recently merged schools were studied. Results from this fieldwork demonstrated that intergroup contact in school reliably improved intergroup attitudes by boosting trust, enhancing positive behavior toward outgroups, and reducing prejudice (Hewstone <i>et al.,</i>
+            <link href="#etrds0465-bib-0015"/>; Schmid, Hewstone, &amp; Al Ramiah, <link href="#etrds0465-bib-0036"/>). In parallel ongoing work, members of our lab have examined the effects of ethnic diversity on intergroup contact, perceived threat, and trust using large&hyphen;scale national surveys in England and Germany, sampling respondents from neighborhoods of varying degrees of diversity. Findings revealed that ethnic diversity promotes intergroup contact, which in turn promotes trust in both ethnic out&hyphen;group members and neighbors by lowering perceptions of threat (Schmid, Ramiah, &amp; Hewstone, <link href="#etrds0465-bib-0037"/>). These findings suggest that any perceptions of threat that might have emerged with increased ethnic diversity were offset by positive intergroup contact, and negative effects were suppressed by more positive ones. This is consistent with a recent perspective contending that anxiety, stress, and other negative outcomes of intergroup relations may be dissipated with time (MacInnis &amp; Page&hyphen;Gould, <link href="#etrds0465-bib-0021"/>).</p>
+         <p xml:id="etrds0465-para-0012">The positive effects of contact, moreover, are not restricted to the effects of direct face&hyphen;to&hyphen;face intergroup contact. We now know that there are reliable effects of extended contact&mdash;that is, there is a prejudice&hyphen;reducing effect if one's in&hyphen;group friends have out&hyphen;groups friends (Vezzali, Hewstone, Capozza, Giovannini, &amp; W&ouml;lfer, <link href="#etrds0465-bib-0049"/>; Wright, Aron, McLaughlin&hyphen;Volpe, &amp; Ropp, <link href="#etrds0465-bib-0053"/>; for a recent meta&hyphen;analysis, see Zhou, Page&hyphen;Gould, Aron, Moyer, &amp; Hewstone, <link href="#etrds0465-bib-0054"/>), and extended contact earlier in time promotes more direct contact later (W&ouml;lfer <i>et al.,</i>
+            <link href="#etrds0465-bib-0052" style="unformatted">in press</link>). Even more broadly, the aggregate level of contact in the neighborhood where one lives has a prejudice&hyphen;reducing effect over and above the effect of one's individual level of contact (Christ <i>et al.,</i>
+            <link href="#etrds0465-bib-0009"/>).</p>
+         <p xml:id="etrds0465-para-0013">In sum, the potential negative and positive consequences of diversity are evident in the very nature of intergroup contact, which can, of course, be either positive (the focus of research for 60 years) or negative (a more recent focus). It is, moreover, logical that diverse contexts offer greater opportunities for not only positive but also negative contact, and that while positive contact improves, negative contact worsens intergroup relations (Barlow <i>et al.,</i>
+            <link href="#etrds0465-bib-0004"/>; Graf, Paolini, &amp; Rubin, <link href="#etrds0465-bib-0014"/>). Yet, research also shows that positive contact is much more frequent than negative contact, so we may expect a net benefit of contact in diverse settings. A focus of current work is to simultaneously explore the additive and interactive effects of both positive and negative contact over time.</p>
+      </section>
+      <section xml:id="etrds0465-sec-0004">
+         <title type="main">A Time&hyphen;Focused Perspective on the Effects of Social Diversity</title>
+         <p xml:id="etrds0465-para-0014">It is clear that, under some circumstances, social diversity can have negative implications, but it is also apparent that intergroup contact can mitigate negative effects of diversity. In the social diversity literature, diversity is typically approached as a construct having a linear direction toward outcomes. Here, we would like to depart from this reasoning and propose that the effects of social diversity are dynamic. They should be dynamic because threat and anxiety are likely to be triggered only by recent and rapid increases rather than stable levels of diversity. Moreover, the beneficial effects of intergroup contact should only be apparent in the long run, after short&hyphen;term, periodic increases and decreases have been considered (a point acknowledged by Putnam, <link href="#etrds0465-bib-0030"/>, although the focus of his article remained on the negative sequelae of diversity). For these reasons, it is critical to have a time&hyphen;focused perspective to understand reactions to social diversity and its consequences. To account for this dynamic perspective of diversity, longitudinal studies are required and, so far, empirical work in this field has predominantly been cross&hyphen;sectional. Another limitation of previous work emerges from the fact that little empirical effort has been made to explain the mechanisms underpinning such effects, making it impossible to evaluate how negative and positive effects may push or pull in either direction (Ramos, Hewstone, Barreto, &amp; Branscombe, <link href="#etrds0465-bib-0032"/>).</p>
+         <section xml:id="etrds0465-sec-0005">
+            <title type="main">Why Should Initial Reactions to Social Diversity be Negative and not Positive?</title>
+            <p xml:id="etrds0465-para-0015">Human nature may dictate negative reactions to changes in social diversity, especially if they occur abruptly or at a fast pace. We are thought to have evolved with a preference for homogeneity and stability (Caporael, <link href="#etrds0465-bib-0008"/>) and a tendency to approach outgroups with a certain degree of uncertainty (Stephan &amp; Stephan, <link href="#etrds0465-bib-0042"/>). Relatedly, as noted earlier, it has been argued that humans follow the principle of homophily (McPherson <i>et al.,</i>
+               <link href="#etrds0465-bib-0022"/>). These tendencies could perhaps have evolved from a survival instinct given that unknown others could be friend or foe, prey or predator, and caution in new encounters could dictate one's survival.</p>
+            <p xml:id="etrds0465-para-0016">History from the nineteenth and twentieth centuries is consonant with these ideas. It shows that rapid ethnic change is often associated with calls for immigration restriction and support for ethnic nationalism (Kaufmann, <link href="#etrds0465-bib-0018"/>) and, in fact, recent political events in the Western world demonstrate a similar path (e.g., rapid changes in migration in specific locales have been associated with support for Brexit in the U.K.; Economist, <link href="#etrds0465-bib-0011"/>). In line with this perspective, one of our recent studies analyzing data from more than 100 countries and 20 years of data shows that an increase in religious diversity is associated with lower reported quality of life all around the world. This effect occurs irrespective of political and cultural ideology and is spread across different continents, suggesting that it may be a typical human reaction to these demographic changes. However, our results showed no negative long&hyphen;term implications of religious diversity for people's quality of life. Taken together, these results indicate that despite initial negative reactions to increasing religious diversity, these tend to dissipate with time.</p>
+         </section>
+         <section xml:id="etrds0465-sec-0006">
+            <title type="main">Why Should Initial Reactions to Social Diversity Dissipate with Time?</title>
+            <p xml:id="etrds0465-para-0017">As much as we are ready to react with initial negativity to social diversity, we are also equipped with the potential to benefit from intergroup experiences. Biology and cultural anthropology argue that human beings evolved and fared better than other species because of this ability. It is argued that intergroup contact brings a variety of benefits that cannot be attained by intragroup interactions. First, there is biological advantage in gaining genetic variability through new mating opportunities (Gl&eacute;min, Ronfort, &amp; Bataillon, <link href="#etrds0465-bib-0013"/>; Moore &amp; Ali, <link href="#etrds0465-bib-0024"/>). Second, intergroup contact allows individuals to acquire more diverse resources and knowledge (Bar&hyphen;Yosef, <link href="#etrds0465-bib-0005"/>; Stringer, <link href="#etrds0465-bib-0043"/>). A notable example is evidence of tool use in paleoarcheology. Whilst <i>Homo sapiens</i> used sophisticated tools made from materials extracted from distant regions, Neanderthal sites from the same era revealed more rudimentary tools with materials from local areas, along with evidence of cannibalism and violence (Ambrose, <link href="#etrds0465-bib-0003"/>). <i>Homo sapiens</i> obtained materials by contact and trading with foreign populations and, for this reason, was more adapted and gained reproductive success over the Neanderthal who fought outgroups. The ability to benefit from intergroup experiences has been maintained, in present times, and similar phenomena occur in organizational settings. Research has shown that, for example, diverse compared to homogenous teams tend to achieve better and more creative solutions (van Knippenberg, De Dreu, &amp; Homan, <link href="#etrds0465-bib-0048"/>).</p>
+            <p xml:id="etrds0465-para-0018">Our argument is that, in contexts of increasing diversity, benefiting from these experiences is, however, contingent upon overcoming an initial phase of negative reactions (e.g., perceived threat, heightened intergroup anxiety). Thus, in society at large, in neighborhoods, communities, schools, and even workgroups, changes in social diversity can, initially, be perceived as threatening and this can be a natural response of human beings who evolved from environments thousands of years ago where survival was paramount. And, of course, some time is needed to overcome this initial resistance and start paving the way for more positive outcomes. Research we are now conducting using European Social Survey data, including a total of twenty European countries, provides some evidence of the timeframe of these processes (Ramos, Bennett, Massey, &amp; Hewstone, <link href="#etrds0465-bib-0031"/>). Our findings suggest that increasing social diversity is associated with negative outgroup attitudes, but also with greater intergroup contact that emerges as a function of these demographic changes. However, from the moment that diversity increases, it takes at least 8 years before intergroup contact reaches a quantity and quality sufficient to neutralize initial negative effects associated with these demographic changes. This 8&hyphen;year timeframe is, of course, just a reference from European data and may be different in other world regions. Nonetheless, the relevant messages from this finding are that we may not reap the benefits of diversity immediately, and that understanding this timeframe is critical for the appropriate public policy response to address diversity issues.</p>
+         </section>
+      </section>
+      <section xml:id="etrds0465-sec-0007">
+         <title type="main">Implications for Diversity Politics</title>
+         <p xml:id="etrds0465-para-0019">One interesting aspect concerning these processes is that political leaders have long realized that individuals feel threatened by changes in the demographics of their societies and some use this to gain political support. In this context, threat is typically triggered by a few steps. One initial step is to follow a narrative that defines specific group boundaries, with the goal of shifting, for example, political discussion about immigration into an intergroup discussion (e.g., nationals of a country are portrayed as &ldquo;us&rdquor; versus the immigrants who are portrayed as &ldquo;them&rdquor;). After this intergroup context has been made salient, overemphasizing demographic changes (e.g., in terms of ethnic, racial, or religious diversity) should trigger perceptions of identity and cultural threat, consonant with the initial processes described in our time&hyphen;focused perspective. Semyonov, Raijman, Tov, and Schmidt (<link href="#etrds0465-bib-0039"/>) showed that only the <i>perceived</i>, but not the actual size of the outgroup population was associated with greater perceived threat and exclusionary outgroup attitudes. To capitalize on this strategy, the solution of closing the borders (to curb immigration flow) is introduced and rapidly gathers support from those who were threatened by demographic changes. Interestingly, this is a remarkably powerful narrative that proved to be successful in recent political decisions such as the British referendum and the 2017 presidential election in the United States. Perhaps the reason why these narratives are so powerful is that they trigger our most primary survival instincts along the lines we discussed above. In agreement with our reasoning, areas that are already diverse with stable levels of diversity are less susceptible to the apparent allure of these narratives. This is, for example, the case for London, one of the areas in the UK less supportive of Brexit (Economist, <link href="#etrds0465-bib-0011"/>). Other forms of political influence whereby this threat response can be triggered include the mainstream media. This was, for example, witnessed when the so&hyphen;called refugee crisis hit European countries. The extensive media coverage of this topic led to great public awareness and heated discussions in the news, social media, and political debate.</p>
+         <p xml:id="etrds0465-para-0020">Another reason why such narratives are so powerful relates to the fact that for the layperson (and for social scientists) it is easier to establish causality when consequences occur right after a given event and, for this reason, the notion that social diversity can, in the long run, result in positive outcomes is more difficult to grasp. In this respect, we believe that education should play a major role. This is particularly important (but not exclusively, the same is true for Japan) for most European societies, which are relatively homogenous, are declining in population, and with the present birth rates will have to receive greater flows of immigration to maintain their workforce. In line with our reasoning, steep increases in immigration rates will trigger negative reactions to social diversity. It is therefore extremely important to plan ahead. The successful planning of this issue is very likely to dictate the quality of people's lives in the near future.</p>
+         <section xml:id="etrds0465-sec-0008">
+            <title type="main">A Final Note</title>
+            <p xml:id="etrds0465-para-0021">Our perspective on diversity can also be used to understand inconsistencies in the field. Extant work has been limited to cross&hyphen;sectional studies and, thus, depending on which snapshot of the intergroup relations time continuum a particular study investigates, it may reveal opposing effects of diversity. For example, after a rapid increase of ethnic diversity, we should be more likely to observe negative effects on intergroup variables such as a lack of trust in outgroups and support for policies restricting immigration. In contrast, a study conducted in a period of stability should reveal lesser or no effects of ethnic diversity on most intergroup variables. This is perhaps one of the reasons why there has been a great lack of consensus in work investigating the effects of ethnic diversity on trust (for a review of these inconsistencies, see van der Meer &amp; Tolsma, <link href="#etrds0465-bib-0047"/>). Understanding how these processes unfold has critical implications for social policy, as it would allow the promotion of factors that harness the protective aspects while targeting the pernicious aspects, helping to turn diversity into a valuable asset in a globalizing world.</p>
+            <p xml:id="etrds0465-para-0022">We argue that negative reactions to diversity should attenuate with time. However, it would be a mistake to assume that nothing should be done to improve the integration of immigrants or the conditions of ethnic, racial, and religious groups living as minority groups around the world. These groups typically face social barriers, prejudice, and discrimination, which together have deleterious consequences for their health (for a review, see Pascoe &amp; Smart Richman, <link href="#etrds0465-bib-0026"/>), which has personal as well as economic costs. And of course, when political leaders intervene in these processes, they have the power to escalate initial negative reactions to the level of intergroup conflict (e.g., as an extreme example, this is what happened under the Nazi regime with its portrayal of the &ldquo;Jewish threat&rdquor;). Our reasoning also points to the significance of appropriate integration measures. Societies or communities promoting high levels of segregation of minority groups are more likely to escalate negative reactions to diversity, given that they are slowing down the mechanism (i.e., intergroup contact) that mitigates these negative reactions. Our message is one of cautious, research&hyphen;based optimism; understanding that human beings have the ability to benefit from diversity can contribute to better planning and help societies to capitalize on these inevitable demographic changes associated with globalization and global inequality.</p>
+         </section>
+      </section>
+      <section xml:id="etrds0465-sec-0009">
+         <title type="main">Acknowledgment</title>
+         <p xml:id="etrds0465-para-0023">This research was supported by a Marie Curie Intra&hyphen;European Fellowship (627982) awarded to the first author and a Nuffield Foundation grant (WEL/43108) awarded to both authors.</p>
+      </section>
+      <bibliography cited="yes" style="nameDate" xml:id="etrds0465-bibl-0001">
+         <title type="main">References</title>
+         <bib xml:id="etrds0465-bib-0001">
+            <citation type="journal" xml:id="etrds0465-cit-0001">
+               <author>
+                  <familyName>Alesina</familyName>, <givenNames>A.</givenNames>
+               </author>, &amp; <author>
+                  <familyNamePrefix>La</familyNamePrefix>
+                  <familyName>Ferrara</familyName>, <givenNames>E.</givenNames>
+               </author> (<pubYear year="2005">2005</pubYear>). <articleTitle>Preferences for redistribution in the land of opportunities</articleTitle>. <journalTitle>Journal of Public Economics</journalTitle>, <vol>89</vol>, <pageFirst>897</pageFirst>&ndash;<pageLast>931</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0002">
+            <citation type="book" xml:id="etrds0465-cit-0002">
+               <author>
+                  <familyName>Allport</familyName>, <givenNames>G. W.</givenNames>
+               </author> (<pubYear year="1954">1954</pubYear>). <bookTitle>The nature of prejudice</bookTitle>. <publisherLoc>Cambridge, MA</publisherLoc>: <publisherName>Addison&hyphen;Wesley</publisherName>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0003">
+            <citation type="journal" xml:id="etrds0465-cit-0003">
+               <author>
+                  <familyName>Ambrose</familyName>, <givenNames>S. H.</givenNames>
+               </author> (<pubYear year="2010">2010</pubYear>). <articleTitle>Coevolution of composite&hyphen;tool technology, constructive memory, and language: Implications for the evolution of modern human behavior</articleTitle>. <journalTitle>Current Anthropology</journalTitle>, <vol>51</vol>, <pageFirst>135</pageFirst>&ndash;<pageLast>147</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0004">
+            <citation type="journal" xml:id="etrds0465-cit-0004">
+               <author>
+                  <familyName>Barlow</familyName>, <givenNames>F. K.</givenNames>
+               </author>, <author>
+                  <familyName>Paolini</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Pedersen</familyName>, <givenNames>A.</givenNames>
+               </author>, <author>
+                  <familyName>Hornsey</familyName>, <givenNames>M. J.</givenNames>
+               </author>, <author>
+                  <familyName>Radke</familyName>, <givenNames>H. R. M.</givenNames>
+               </author>, <author>
+                  <familyName>Harwood</familyName>, <givenNames>J.</givenNames>
+               </author> and <author>
+                  <familyName>Sibley</familyName>, <givenNames>C. G.</givenNames>
+               </author> (<pubYear year="2012">2012</pubYear>). <articleTitle>The contact caveat: Negative contact predicts increased prejudice more than positive contact predicts reduced prejudice</articleTitle>. <journalTitle>Personality and Social Psychology Bulletin</journalTitle>, <vol>38</vol>, <pageFirst>1629</pageFirst>&hyphen;<pageLast>1643</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0005">
+            <citation type="journal" xml:id="etrds0465-cit-0005">
+               <author>
+                  <familyName>Bar&hyphen;Yosef</familyName>, <givenNames>O.</givenNames>
+               </author> (<pubYear year="2002">2002</pubYear>). <articleTitle>The upper paleolithic revolution</articleTitle>. <journalTitle>Annual Review of Anthropology</journalTitle>, <vol>31</vol>, <pageFirst>363</pageFirst>&ndash;<pageLast>393</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0006">
+            <citation type="journal" xml:id="etrds0465-cit-0006">
+               <author>
+                  <familyName>Blascovich</familyName>, <givenNames>J.</givenNames>
+               </author>, <author>
+                  <familyName>Mendes</familyName>, <givenNames>W. B.</givenNames>
+               </author>, <author>
+                  <familyName>Hunter</familyName>, <givenNames>S. B.</givenNames>
+               </author>, <author>
+                  <familyName>Lickel</familyName>, <givenNames>B.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Kowai&hyphen;Bell</familyName>, <givenNames>N.</givenNames>
+               </author> (<pubYear year="2001">2001</pubYear>). <articleTitle>Perceiver threat in social interactions with stigmatized others</articleTitle>. <journalTitle>Journal of Personality and Social Psychology</journalTitle>, <vol>80</vol>, <pageFirst>253</pageFirst>&ndash;<pageLast>267</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0007">
+            <citation type="journal" xml:id="etrds0465-cit-0007">
+               <author>
+                  <familyName>Brown</familyName>, <givenNames>R.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="2005">2005</pubYear>). <articleTitle>An integrative theory of intergroup contact</articleTitle>. <journalTitle>Advances in Experimental Social Psychology</journalTitle>, <vol>37</vol>, <pageFirst>255</pageFirst>&ndash;<pageLast>343</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0008">
+            <citation type="journal" xml:id="etrds0465-cit-0008">
+               <author>
+                  <familyName>Caporael</familyName>, <givenNames>L. R.</givenNames>
+               </author> (<pubYear year="1997">1997</pubYear>). <articleTitle>The evolution of truly social cognition: The core configurations model</articleTitle>. <journalTitle>Personality and Social Psychology Review</journalTitle>, <vol>1</vol>, <pageFirst>276</pageFirst>&ndash;<pageLast>298</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0009">
+            <citation type="journal" xml:id="etrds0465-cit-0009">
+               <author>
+                  <familyName>Christ</familyName>, <givenNames>O.</givenNames>
+               </author>, <author>
+                  <familyName>Schmid</familyName>, <givenNames>K.</givenNames>
+               </author>, <author>
+                  <familyName>Lolliot</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Swart</familyName>, <givenNames>H.</givenNames>
+               </author>, <author>
+                  <familyName>Stolle</familyName>, <givenNames>D.</givenNames>
+               </author>, <author>
+                  <familyName>Tausch</familyName>, <givenNames>N.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="2014">2014</pubYear>). <articleTitle>Contextual effect of positive intergroup contact on outgroup prejudice</articleTitle>. <journalTitle>Proceedings of the National Academy of Sciences</journalTitle>, <vol>111</vol>, <pageFirst>3996</pageFirst>&ndash;<pageLast>4000</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0010">
+            <citation type="journal" xml:id="etrds0465-cit-0010">
+               <author>
+                  <familyName>Eagly</familyName>, <givenNames>A.</givenNames>
+               </author> (<pubYear year="2016">2016</pubYear>). <articleTitle>When passionate advocates meet research on diversity, does the honest broker stand a chance?</articleTitle>
+               <journalTitle>Journal of Social Issues</journalTitle>, <vol>72</vol>, <pageFirst>199</pageFirst>&ndash;<pageLast>222</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0011">
+            <citation type="other" xml:id="etrds0465-cit-0011">
+               <groupName xml:id="etrds0465-gp-0001">Economist</groupName>. (<pubYear year="2016">2016</pubYear>). <otherTitle>The immigration paradox</otherTitle>. <i>The Economist</i>, <i>July 16th</i>, <i>48</i>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0012">
+            <citation type="journal" xml:id="etrds0465-cit-0012">
+               <author>
+                  <familyName>Esteban</familyName>, <givenNames>J.</givenNames>
+               </author>, <author>
+                  <familyName>Mayoral</familyName>, <givenNames>L.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Ray</familyName>, <givenNames>D.</givenNames>
+               </author> (<pubYear year="2012">2012</pubYear>). <articleTitle>Ethnicity and conflict: Theory and facts</articleTitle>. <journalTitle>Science</journalTitle>, <vol>336</vol>, <pageFirst>858</pageFirst>&ndash;<pageLast>865</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0013">
+            <citation type="journal" xml:id="etrds0465-cit-0013">
+               <author>
+                  <familyName>Gl&eacute;min</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Ronfort</familyName>, <givenNames>J.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Bataillon</familyName>, <givenNames>T.</givenNames>
+               </author> (<pubYear year="2003">2003</pubYear>). <articleTitle>Patterns of inbreeding depression and architecture of the load in subdivided populations</articleTitle>. <journalTitle>Genetics</journalTitle>, <vol>165</vol>, <pageFirst>2193</pageFirst>&ndash;<pageLast>2212</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0014">
+            <citation type="journal" xml:id="etrds0465-cit-0014">
+               <author>
+                  <familyName>Graf</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Paolini</familyName>, <givenNames>S.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Rubin</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="2014">2014</pubYear>). <articleTitle>Negative intergroup contact is more influential, but positive intergroup contact is more common: Assessing contact prominence and contact prevalence in five Central European countries</articleTitle>. <journalTitle>European Journal of Social Psychology</journalTitle>, <vol>44</vol>, <pageFirst>536</pageFirst>&ndash;<pageLast>547</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0015">
+            <citation type="journal" xml:id="etrds0465-cit-0015">
+               <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Ramiah</familyName>, <givenNames>A. A.</givenNames>
+               </author>, <author>
+                  <familyName>Schmid</familyName>, <givenNames>K.</givenNames>
+               </author>, <author>
+                  <familyName>Floe</familyName>, <givenNames>C.</givenNames>
+               </author>, <author>
+                  <familyName>Zalk</familyName>, <givenNames>M. V.</givenNames>
+               </author>, <author>
+                  <familyName>W&ouml;lfer</familyName>, <givenNames>R.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>New</familyName>, <givenNames>R.</givenNames>
+               </author> (<pubYear year="2018">2018</pubYear>). <articleTitle>Influence of segregation versus mixing: Intergroup contact and attitudes among White&hyphen;British and Asian&hyphen;British students in high schools in Oldham, England</articleTitle>. <journalTitle>Theory and Research in Education</journalTitle>, <vol>16</vol>, <pageFirst>179</pageFirst>&ndash;<pageLast>203</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0016">
+            <citation type="journal" xml:id="etrds0465-cit-0016">
+               <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Swart</familyName>, <givenNames>H.</givenNames>
+               </author> (<pubYear year="2011">2011</pubYear>). <articleTitle>Fifty&hyphen;odd years of inter&hyphen;group contact: From hypothesis to integrated theory</articleTitle>. <journalTitle>British Journal of Social Psychology</journalTitle>, <vol>50</vol>, <pageFirst>374</pageFirst>&ndash;<pageLast>386</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0017">
+            <citation type="journal" xml:id="etrds0465-cit-0017">
+               <author>
+                  <familyName>Islam</familyName>, <givenNames>M. R.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="1993">1993</pubYear>). <articleTitle>Dimensions of contact as predictors of intergroup anxiety, perceived out&hyphen;group variability, and out&hyphen;group attitude: An integrative model</articleTitle>. <journalTitle>Personality and Social Psychology Bulletin</journalTitle>, <vol>19</vol>, <pageFirst>700</pageFirst>&ndash;<pageLast>710</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0018">
+            <citation type="journal" xml:id="etrds0465-cit-0018">
+               <author>
+                  <familyName>Kaufmann</familyName>, <givenNames>E.</givenNames>
+               </author> (<pubYear year="2017">2017</pubYear>). <articleTitle>Levels or changes? Ethnic context, immigration and the UK Independence Party vote</articleTitle>. <journalTitle>Electoral Studies</journalTitle>, <vol>48</vol>, <pageFirst>57</pageFirst>&ndash;<pageLast>69</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0019">
+            <citation type="journal" xml:id="etrds0465-cit-0019">
+               <author>
+                  <familyName>Kesler</familyName>, <givenNames>C.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Bloemraad</familyName>, <givenNames>I.</givenNames>
+               </author> (<pubYear year="2010">2010</pubYear>). <articleTitle>Does immigration erode social capital? The conditional effects of immigration&hyphen;generated diversity on trust, membership, and participation across 19 countries, 1981&hyphen;2000</articleTitle>. <journalTitle>Canadian Journal of Political Science</journalTitle>, <vol>43</vol>, <pageFirst>319</pageFirst>&ndash;<pageLast>347</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0020">
+            <citation type="journal" xml:id="etrds0465-cit-0020">
+               <author>
+                  <familyName>Lemmer</familyName>, <givenNames>G.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Wagner</familyName>, <givenNames>U.</givenNames>
+               </author> (<pubYear year="2015">2015</pubYear>). <articleTitle>Can we really reduce ethnic prejudice outside the lab? A meta&hyphen;analysis of direct and indirect contact interventions</articleTitle>. <journalTitle>European Journal of Social Psychology</journalTitle>, <vol>45</vol>, <pageFirst>152</pageFirst>&ndash;<pageLast>168</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0021">
+            <citation type="journal" xml:id="etrds0465-cit-0021">
+               <author>
+                  <familyName>MacInnis</familyName>, <givenNames>C. C.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Page&hyphen;Gould</familyName>, <givenNames>E.</givenNames>
+               </author> (<pubYear year="2015">2015</pubYear>). <articleTitle>How can intergroup interaction be bad if intergroup contact is good? Exploring and reconciling an apparent paradox in the science of intergroup relations</articleTitle>. <journalTitle>Perspectives on Psychological Science</journalTitle>, <vol>10</vol>, <pageFirst>307</pageFirst>&ndash;<pageLast>327</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0022">
+            <citation type="journal" xml:id="etrds0465-cit-0022">
+               <author>
+                  <familyName>McPherson</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Smith&hyphen;Lovin</familyName>, <givenNames>L.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Cook</familyName>, <givenNames>J. M.</givenNames>
+               </author> (<pubYear year="2001">2001</pubYear>). <articleTitle>Birds of a feather: Homophily in social networks</articleTitle>. <journalTitle>Annual Review of Sociology</journalTitle>, <vol>27</vol>, <pageFirst>415</pageFirst>&ndash;<pageLast>444</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0023">
+            <citation type="journal" xml:id="etrds0465-cit-0023">
+               <author>
+                  <familyName>Mendes</familyName>, <givenNames>W. B.</givenNames>
+               </author>, <author>
+                  <familyName>Blascovich</familyName>, <givenNames>J.</givenNames>
+               </author>, <author>
+                  <familyName>Hunter</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Lickel</familyName>, <givenNames>B.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Jost</familyName>, <givenNames>J.</givenNames>
+               </author> (<pubYear year="2007">2007</pubYear>). <articleTitle>Threatened by the unexpected: Physiological responses during social interactions with expectancy&hyphen;violating partners</articleTitle>. <journalTitle>Journal of Personality and Social Psychology</journalTitle>, <vol>92</vol>, <pageFirst>698</pageFirst>&ndash;<pageLast>716</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0024">
+            <citation type="journal" xml:id="etrds0465-cit-0024">
+               <author>
+                  <familyName>Moore</familyName>, <givenNames>J.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Ali</familyName>, <givenNames>R.</givenNames>
+               </author> (<pubYear year="1984">1984</pubYear>). <articleTitle>Are dispersal and inbreeding avoidance related?</articleTitle>
+               <journalTitle>Animal Behaviour</journalTitle>, <vol>32</vol>, <pageFirst>94</pageFirst>&ndash;<pageLast>112</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0025">
+            <citation type="journal" xml:id="etrds0465-cit-0025">
+               <author>
+                  <familyName>Paolini</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Cairns</familyName>, <givenNames>E.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Voci</familyName>, <givenNames>A.</givenNames>
+               </author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Effects of direct and indirect cross&hyphen;group friendships on judgments of Catholics and Protestants in Northern Ireland: The mediating role of an anxiety&hyphen;reduction mechanism</articleTitle>. <journalTitle>Personality and Social Psychology Bulletin</journalTitle>, <vol>30</vol>, <pageFirst>770</pageFirst>&ndash;<pageLast>786</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0026">
+            <citation type="journal" xml:id="etrds0465-cit-0026">
+               <author>
+                  <familyName>Pascoe</familyName>, <givenNames>E. A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Smart Richman</familyName>, <givenNames>L.</givenNames>
+               </author> (<pubYear year="2009">2009</pubYear>). <articleTitle>Perceived discrimination and health: A meta&hyphen;analytic review</articleTitle>. <journalTitle>Psychological Bulletin</journalTitle>, <vol>135</vol>, <pageFirst>531</pageFirst>&ndash;<pageLast>554</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0027">
+            <citation type="journal" xml:id="etrds0465-cit-0027">
+               <author>
+                  <familyName>Pettigrew</familyName>, <givenNames>T. F.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Tropp</familyName>, <givenNames>L. R.</givenNames>
+               </author> (<pubYear year="2006">2006</pubYear>). <articleTitle>A meta&hyphen;analytic test of intergroup contact theory</articleTitle>. <journalTitle>Journal of Personality and Social Psychology</journalTitle>, <vol>90</vol>, <pageFirst>751</pageFirst>&ndash;<pageLast>783</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0028">
+            <citation type="journal" xml:id="etrds0465-cit-0028">
+               <author>
+                  <familyName>Pettigrew</familyName>, <givenNames>T. F.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Tropp</familyName>, <givenNames>L. R.</givenNames>
+               </author> (<pubYear year="2008">2008</pubYear>). <articleTitle>How does intergroup contact reduce prejudice? Meta&hyphen;analytic tests of three mediators</articleTitle>. <journalTitle>European Journal of Social Psychology</journalTitle>, <vol>38</vol>, <pageFirst>922</pageFirst>&ndash;<pageLast>934</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0029">
+            <citation type="journal" xml:id="etrds0465-cit-0029">
+               <author>
+                  <familyName>Plant</familyName>, <givenNames>E. A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Devine</familyName>, <givenNames>P. G.</givenNames>
+               </author> (<pubYear year="2003">2003</pubYear>). <articleTitle>The antecedents and implications of interracial anxiety</articleTitle>. <journalTitle>Personality and Social Psychology Bulletin</journalTitle>, <vol>29</vol>, <pageFirst>790</pageFirst>&ndash;<pageLast>801</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0030">
+            <citation type="journal" xml:id="etrds0465-cit-0030">
+               <author>
+                  <familyName>Putnam</familyName>, <givenNames>R. D.</givenNames>
+               </author> (<pubYear year="2007">2007</pubYear>). <articleTitle>E Pluribus Unum: Diversity and community in the twenty&hyphen;first century: The 2006 Johan Skytte Prize lecture</articleTitle>. <journalTitle>Scandinavian Political Studies</journalTitle>, <vol>30</vol>, <pageFirst>137</pageFirst>&ndash;<pageLast>174</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0031">
+            <citation type="other" xml:id="etrds0465-cit-0031">
+               <author>
+                  <familyName>Ramos</familyName>, <givenNames>M. R.</givenNames>
+               </author>, <author>
+                  <familyName>Bennett</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Massey</familyName>, <givenNames>D.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author>, (<pubYear year="2018">2018</pubYear>). <otherTitle>Are we able to adapt to increasing societal diversity?</otherTitle> Unpublished manuscript: University of Oxford, Oxford, UK.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0032">
+            <citation type="journal" xml:id="etrds0465-cit-0032">
+               <author>
+                  <familyName>Ramos</familyName>, <givenNames>M. R.</givenNames>
+               </author>, <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Barreto</familyName>, <givenNames>M.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Branscombe</familyName>, <givenNames>N. R.</givenNames>
+               </author> (<pubYear year="2016">2016</pubYear>). <articleTitle>The opportunities and challenges of diversity: Explaining its impact on individuals and groups</articleTitle>. <journalTitle>European Journal of Social Psychology</journalTitle>, <vol>46</vol>, <pageFirst>793</pageFirst>&ndash;<pageLast>806</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0033">
+            <citation type="journal" xml:id="etrds0465-cit-0033">
+               <author>
+                  <familyName>Richeson</familyName>, <givenNames>J. A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Shelton</familyName>, <givenNames>J. N.</givenNames>
+               </author> (<pubYear year="2003">2003</pubYear>). <articleTitle>When prejudice does not pay: Effects of interracial contact on executive function</articleTitle>. <journalTitle>Psychological Science</journalTitle>, <vol>14</vol>, <pageFirst>287</pageFirst>&ndash;<pageLast>290</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0034">
+            <citation type="journal" xml:id="etrds0465-cit-0034">
+               <author>
+                  <familyName>Savelkoul</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Gesthuizen</familyName>, <givenNames>M.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Scheepers</familyName>, <givenNames>P.</givenNames>
+               </author> (<pubYear year="2011">2011</pubYear>). <articleTitle>Explaining relationships between ethnic diversity and informal social capital across European countries and regions: Tests of constrict, conflict and contact theory</articleTitle>. <journalTitle>Social Science Research</journalTitle>, <vol>40</vol>, <pageFirst>1091</pageFirst>&ndash;<pageLast>1107</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0035">
+            <citation type="journal" xml:id="etrds0465-cit-0035">
+               <author>
+                  <familyName>Scheepers</familyName>, <givenNames>P.</givenNames>
+               </author>, <author>
+                  <familyName>Gijsberts</familyName>, <givenNames>M.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Coenders</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="2002">2002</pubYear>). <articleTitle>Ethnic exclusionism in European countries: public opposition to civil rights for legal migrants as a response to perceived ethnic threat</articleTitle>. <journalTitle>European Sociological Review</journalTitle>, <vol>18</vol>, <pageFirst>17</pageFirst>&ndash;<pageLast>34</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0036">
+            <citation type="book" xml:id="etrds0465-cit-0036">
+               <author>
+                  <familyName>Schmid</familyName>, <givenNames>K.</givenNames>
+               </author>, <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Al Ramiah</familyName>, <givenNames>A.</givenNames>
+               </author> (<pubYear year="2014">2014</pubYear>). <chapterTitle>Diversity, trust, and intergroup attitudes: Underlying processes and mechanisms</chapterTitle>. In <bookTitle>Social cohesion and immigration in Europe and North America</bookTitle> (pp. <pageFirst>163</pageFirst>&ndash;<pageLast>184</pageLast>). <publisherLoc>London, UK</publisherLoc>: <publisherName>Routledge</publisherName>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0037">
+            <citation type="journal" xml:id="etrds0465-cit-0037">
+               <author>
+                  <familyName>Schmid</familyName>, <givenNames>K.</givenNames>
+               </author>, <author>
+                  <familyName>Ramiah</familyName>, <givenNames>A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="2014">2014</pubYear>). <articleTitle>Neighborhood ethnic diversity and trust: The role of intergroup contact and perceived threat</articleTitle>. <journalTitle>Psychological Science</journalTitle>, <vol>25</vol>, <pageFirst>665</pageFirst>&ndash;<pageLast>674</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0038">
+            <citation type="journal" xml:id="etrds0465-cit-0038">
+               <author>
+                  <familyName>Seeman</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="1959">1959</pubYear>). <articleTitle>On the meaning of alienation</articleTitle>. <journalTitle>American Sociological Review</journalTitle>, <pageFirst>783</pageFirst>&ndash;<pageLast>791</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0039">
+            <citation type="journal" xml:id="etrds0465-cit-0039">
+               <author>
+                  <familyName>Semyonov</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Raijman</familyName>, <givenNames>R.</givenNames>
+               </author>, <author>
+                  <familyName>Tov</familyName>, <givenNames>A. Y.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Schmidt</familyName>, <givenNames>P.</givenNames>
+               </author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Population size, perceived threat and exclusion: A multiple&hyphen;indicators analysis of attitudes toward foreigners in Germany</articleTitle>. <journalTitle>Social Science Research</journalTitle>, <vol>33</vol>, <pageFirst>681</pageFirst>&ndash;<pageLast>701</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0040">
+            <citation type="journal" xml:id="etrds0465-cit-0040">
+               <author>
+                  <familyName>Shelton</familyName>, <givenNames>J. N.</givenNames>
+               </author>, <author>
+                  <familyName>Richeson</familyName>, <givenNames>J. A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Vorauer</familyName>, <givenNames>J. D.</givenNames>
+               </author> (<pubYear year="2006">2006</pubYear>). <articleTitle>Threatened identities and interethnic interactions</articleTitle>. <journalTitle>European Review of Social Psychology</journalTitle>, <vol>17</vol>, <pageFirst>321</pageFirst>&ndash;<pageLast>358</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0041">
+            <citation type="journal" xml:id="etrds0465-cit-0041">
+               <author>
+                  <familyName>Stephan</familyName>, <givenNames>W. G.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Stephan</familyName>, <givenNames>C. W.</givenNames>
+               </author> (<pubYear year="1989">1989</pubYear>). <articleTitle>Antecedents of intergroup anxiety in Asian&hyphen;Americans and Hispanic&hyphen;Americans</articleTitle>. <journalTitle>International Journal of Intercultural Relations</journalTitle>, <vol>13</vol>, <pageFirst>203</pageFirst>&ndash;<pageLast>219</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0042">
+            <citation type="book" xml:id="etrds0465-cit-0042">
+               <author>
+                  <familyName>Stephan</familyName>, <givenNames>W. G.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Stephan</familyName>, <givenNames>C. W.</givenNames>
+               </author> (<pubYear year="2000">2000</pubYear>). <chapterTitle>An integrated threat theory of prejudice</chapterTitle>. In <editor>
+                  <givenNames>S.</givenNames>
+                  <familyName>Oskamp</familyName>
+               </editor> (Ed.), <bookTitle>Reducing prejudice and discrimination</bookTitle> (pp. <pageFirst>23</pageFirst>&ndash;<pageLast>45</pageLast>). <publisherLoc>Mahwah, NJ</publisherLoc>: <publisherName>Erlbaum</publisherName>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0043">
+            <citation type="journal" xml:id="etrds0465-cit-0043">
+               <author>
+                  <familyName>Stringer</familyName>, <givenNames>C.</givenNames>
+               </author> (<pubYear year="2001">2001</pubYear>). <articleTitle>The evolution of modern humans: Where are we now</articleTitle>. <journalTitle>General Anthropology</journalTitle>, <vol>7</vol>, <pageFirst>1</pageFirst>&ndash;<pageLast>5</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0044">
+            <citation type="journal" xml:id="etrds0465-cit-0044">
+               <author>
+                  <familyName>Toosi</familyName>, <givenNames>N. R.</givenNames>
+               </author>, <author>
+                  <familyName>Babbitt</familyName>, <givenNames>L. G.</givenNames>
+               </author>, <author>
+                  <familyName>Ambady</familyName>, <givenNames>N.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Sommers</familyName>, <givenNames>S. R.</givenNames>
+               </author> (<pubYear year="2012">2012</pubYear>). <articleTitle>Dyadic interracial interactions: A meta&hyphen;analysis</articleTitle>. <journalTitle>Psychological Bulletin</journalTitle>, <vol>138</vol>, <pageFirst>1</pageFirst>&ndash;<pageLast>27</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0045">
+            <citation type="journal" xml:id="etrds0465-cit-0045">
+               <author>
+                  <familyName>Trawalter</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Richeson</familyName>, <givenNames>J. A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Shelton</familyName>, <givenNames>J. N.</givenNames>
+               </author> (<pubYear year="2009">2009</pubYear>). <articleTitle>Predicting behavior during interracial interactions: A stress and coping approach</articleTitle>. <journalTitle>Personality and Social Psychology Review</journalTitle>, <vol>13</vol>, <pageFirst>243</pageFirst>&ndash;<pageLast>268</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0046">
+            <citation type="other" xml:id="etrds0465-cit-0046">
+               <groupName xml:id="etrds0465-gp-0002">United Nations</groupName> (<pubYear year="2017">2017</pubYear>). <otherTitle>International Migration 2017</otherTitle>. Retrieved 29 March, 2018, from <url href="http://www.un.org/en/development/desa/population/migration/publications/wallchart/docs/MigrationWallChart2017.pdf">http://www.un.org/en/development/desa/population/migration/publications/wallchart/docs/MigrationWallChart2017.pdf</url>
+            </citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0047">
+            <citation type="journal" xml:id="etrds0465-cit-0047">
+               <author>
+                  <familyNamePrefix>van der</familyNamePrefix>
+                  <familyName>Meer</familyName>, <givenNames>T.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Tolsma</familyName>, <givenNames>J.</givenNames>
+               </author> (<pubYear year="2014">2014</pubYear>). <articleTitle>Ethnic diversity and its effects on social cohesion</articleTitle>. <journalTitle>Annual Review of Sociology</journalTitle>, <vol>40</vol>, <pageFirst>459</pageFirst>&ndash;<pageLast>478</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0048">
+            <citation type="journal" xml:id="etrds0465-cit-0048">
+               <author>
+                  <familyNamePrefix>van</familyNamePrefix>
+                  <familyName>Knippenberg</familyName>, <givenNames>D.</givenNames>
+               </author>, <author>
+                  <familyNamePrefix>De</familyNamePrefix>
+                  <familyName>Dreu</familyName>, <givenNames>C. K.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Homan</familyName>, <givenNames>A. C.</givenNames>
+               </author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Work group diversity and group performance: An integrative model and research agenda</articleTitle>. <journalTitle>Journal of Applied Psychology</journalTitle>, <vol>89</vol>, <pageFirst>1008</pageFirst>&ndash;<pageLast>1022</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0049">
+            <citation type="journal" xml:id="etrds0465-cit-0049">
+               <author>
+                  <familyName>Vezzali</familyName>, <givenNames>L.</givenNames>
+               </author>, <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author>, <author>
+                  <familyName>Capozza</familyName>, <givenNames>D.</givenNames>
+               </author>, <author>
+                  <familyName>Giovannini</familyName>, <givenNames>D.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>W&ouml;lfer</familyName>, <givenNames>R.</givenNames>
+               </author> (<pubYear year="2014">2014</pubYear>). <articleTitle>Improving intergroup relations with extended and vicarious forms of indirect contact</articleTitle>. <journalTitle>European Review of Social Psychology</journalTitle>, <vol>25</vol>, <pageFirst>314</pageFirst>&ndash;<pageLast>389</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0050">
+            <citation type="journal" xml:id="etrds0465-cit-0050">
+               <author>
+                  <familyName>Voci</familyName>, <givenNames>A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="2003">2003</pubYear>). <articleTitle>Intergroup contact and prejudice toward immigrants in Italy: The mediational role of anxiety and the moderational role of group salience</articleTitle>. <journalTitle>Group Processes &amp; Intergroup Relations</journalTitle>, <vol>6</vol>, <pageFirst>37</pageFirst>&ndash;<pageLast>54</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0051">
+            <citation type="journal" xml:id="etrds0465-cit-0051">
+               <author>
+                  <familyName>Vorauer</familyName>, <givenNames>J. D.</givenNames>
+               </author>, <author>
+                  <familyName>Hunter</familyName>, <givenNames>A. J.</givenNames>
+               </author>, <author>
+                  <familyName>Main</familyName>, <givenNames>K. J.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Roy</familyName>, <givenNames>S. A.</givenNames>
+               </author> (<pubYear year="2000">2000</pubYear>). <articleTitle>Meta&hyphen;stereotype activation: Evidence from indirect measures for specific evaluative concerns experienced by members of dominant groups in intergroup interaction</articleTitle>. <journalTitle>Journal of Personality and Social Psychology</journalTitle>, <vol>78</vol>, <pageFirst>690</pageFirst>&ndash;<pageLast>707</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0052">
+            <citation type="other" xml:id="etrds0465-cit-0052">
+               <author>
+                  <familyName>W&ouml;lfer</familyName>, <givenNames>R.</givenNames>
+               </author>, <author>
+                  <familyName>Christ</familyName>, <givenNames>O.</givenNames>
+               </author>, <author>
+                  <familyName>Schmid</familyName>, <givenNames>K.</givenNames>
+               </author>, <author>
+                  <familyName>Tausch</familyName>, <givenNames>N.</givenNames>
+               </author>, <author>
+                  <familyName>Buchallik</familyName>, <givenNames>F. M.</givenNames>
+               </author>, <author>
+                  <familyName>Vertovec</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author> (in press). Indirect contact predicts direct contact: longitudinal evidence and the mediating role of intergroup anxiety.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0053">
+            <citation type="journal" xml:id="etrds0465-cit-0053">
+               <author>
+                  <familyName>Wright</familyName>, <givenNames>S. C.</givenNames>
+               </author>, <author>
+                  <familyName>Aron</familyName>, <givenNames>A.</givenNames>
+               </author>, <author>
+                  <familyName>McLaughlin&hyphen;Volpe</familyName>, <givenNames>T.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Ropp</familyName>, <givenNames>S. A.</givenNames>
+               </author> (<pubYear year="1997">1997</pubYear>). <articleTitle>The extended contact effect: Knowledge of cross&hyphen;group friendships and prejudice</articleTitle>. <journalTitle>Journal of Personality and Social Psychology</journalTitle>, <vol>73</vol>, <pageFirst>73</pageFirst>&ndash;<pageLast>90</pageLast>.</citation>
+         </bib>
+         <bib xml:id="etrds0465-bib-0054">
+            <citation type="journal" xml:id="etrds0465-cit-0054">
+               <author>
+                  <familyName>Zhou</familyName>, <givenNames>S.</givenNames>
+               </author>, <author>
+                  <familyName>Page&hyphen;Gould</familyName>, <givenNames>E.</givenNames>
+               </author>, <author>
+                  <familyName>Aron</familyName>, <givenNames>A.</givenNames>
+               </author>, <author>
+                  <familyName>Moyer</familyName>, <givenNames>A.</givenNames>
+               </author>, &amp; <author>
+                  <familyName>Hewstone</familyName>, <givenNames>M.</givenNames>
+               </author> (<pubYear year="2018">2018</pubYear>). <articleTitle>The extended contact hypothesis: A meta&hyphen;analysis on 20 years of research</articleTitle>. <journalTitle>Personality and Social Psychology Review</journalTitle>. Advance online publication. <url href="https://doi.org/10.1177/1088868318762647">https://doi.org/10.1177/1088868318762647</url>.</citation>
+         </bib>
+      </bibliography>
+      <section xml:id="etrds0465-sec-0010">
+         <title type="main">Related Essays</title>
+         <p xml:id="etrds0465-para-0025">
+            <list xml:id="etrds0465-list-1001" style="plain">
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0276" style="fallback">Reconciliation and Peace&hyphen;Making: Insights from Studies on Nonhuman Animals (<i>Anthropology</i>), Sonja E. Koski</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0127" style="fallback">Exploring Opportunities in Cultural Diversity (<i>Political Science</i>), David D. Laitin and Sangick Jeon</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0259" style="fallback">Politics of Immigration Policy (<i>Political Science</i>), Jeannette Money</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0019" style="fallback">Attitude: Construction versus Disposition (<i>Psychology</i>), Charles G. Lord</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0046" style="fallback">Cognitive Processes Involved in Stereotyping (<i>Psychology</i>), Susan T. Fiske and Cydney H. Dupree</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0111" style="fallback">Emotion and Intergroup Relations (<i>Psychology</i>), Diane M. Mackie <i>et al.</i>
+                  </link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0113" style="fallback">Empathy Gaps between Helpers and Help&hyphen;Seekers: Implications for Cooperation (<i>Psychology</i>), Vanessa K. Bohns and Francis J. Flynn</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0208" style="fallback">Longitudinal Data Analysis (<i>Methods</i>), Todd D. Little <i>et al.</i>
+                  </link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0222" style="fallback">Misinformation and How to Correct It (<i>Psychology</i>), John Cook <i>et al.</i>
+                  </link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0321" style="fallback">Stereotype Threat (<i>Psychology</i>), Toni Schmader and William M. Hall</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0333" style="fallback">The Development of Social Trust (<i>Psychology</i>), Vikram K. Jaswal and Marissa B. Drell</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0016" style="fallback">Assimilation and Its Discontents (<i>Sociology</i>), Min Zhou</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0043" style="fallback">Class, Cognition, and Face&hyphen;to&hyphen;Face Interaction (<i>Sociology</i>), Lauren A. Rivera</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0059" style="fallback">Cultural Conflict (<i>Sociology</i>), Ian Mullins</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0151" style="fallback">Globalization Backlash (<i>Economics</i>), Mabel Berezin</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0118" style="fallback">Ethnic Enclaves (<i>Sociology</i>), Steven J. Gold</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0175" style="fallback">Immigration and the Changing Status of Asian Americans (<i>Sociology</i>), Jennifer Lee</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0220" style="fallback">Migrant Networks (<i>Sociology</i>), Filiz Garip and Asad L. Asad</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0320" style="fallback">Stereotype Content (<i>Sociology</i>), Beatrice H. Capestany and Lasana T. Harris</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0358" style="fallback">Immigrant Sociocultural Adaptation, Identification, and Belonging (<i>Sociology</i>), Sarah J. Mahler</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0397" style="fallback">Social Network Analysis in the Study of Ethnic Inequalities (<i>Psychology</i>), Frank Kalter</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0398" style="fallback">The Role of Social Mechanisms in the Formation of Social Inequalities (<i>Sociology</i>), Martin Diewald</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0408" style="fallback">Social Inequality across the Life Course: Societal Unfolding and Individual Agency (<i>Psychology</i>), Jutta Heckhausen</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0407" style="fallback">Language Proficiency and the Integration of Immigrant Students in the Education System (<i>Education</i>), Petra Stanat and Aileen Edele</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0082" style="fallback">Diversity in Groups (<i>Sociology</i>), Catarina R. Fernandes and Jeffrey T. Polzer</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0127" style="fallback">Exploring Opportunities in Cultural Diversity (<i>Political Science</i>), David D. Laitin and Sangick Jeon</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0429" style="fallback">Skill Production Regimes and Immigrant Labor Market Integration (<i>Sociology</i>), Irena Kogan</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0438" style="fallback">Immigrant Adolescents: Opportunities and Challenges (<i>Psychology</i>), Peter F. Titzmann and Linda Juang</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0451" style="fallback">The Transnationalized Social Question: Migration and Social Inequalities (<i>Sociology</i>), Thomas Faist</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0452" style="fallback">Demography and Social Inequality (<i>Sociology</i>), Anette Fasang</link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0460" style="fallback">Between the Devil and the Deep Blue Sea: Refugee Youth in Resettlement {<i>(Clinical psychology)</i>}, Maryam Kia&hyphen;Keating <i>et al.</i>
+                  </link>
+               </listItem>
+               <listItem>
+                  <link href="urn:x-wiley:9781118900772:xml-component:etrds0457" style="fallback">The Process of Racial Re&hyphen;Segregation in Housing and Schools: The Sociology of Reputation <i>(Sociology/Education)</i>, Amy Wells</link>
+               </listItem>
+            </list>
+         </p>
+      </section>
+   </body>
+</component>
